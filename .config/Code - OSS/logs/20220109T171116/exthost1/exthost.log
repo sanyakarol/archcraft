@@ -1,0 +1,7 @@
+[2022-01-09 17:11:35.926] [exthost] [info] Extension host with pid 13586 started
+[2022-01-09 17:11:35.926] [exthost] [info] Skipping acquiring lock for /home/overdose/.config/Code - OSS/User/workspaceStorage/00e084defef5cd56e5c3ea4710d6f1cc.
+[2022-01-09 17:11:36.925] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-09 17:11:36.965] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-09 17:11:38.284] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-09 17:11:38.547] [exthost] [info] Eager extensions activated
+[2022-01-09 17:11:39.580] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

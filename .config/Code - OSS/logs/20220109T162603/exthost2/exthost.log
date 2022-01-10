@@ -1,0 +1,10 @@
+[2022-01-09 16:26:15.607] [exthost] [info] Extension host with pid 3663 started
+[2022-01-09 16:26:15.610] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-09 16:26:15.623] [exthost] [error] Error [ERR_IPC_CHANNEL_CLOSED]: Channel closed
+    at process.target.send (internal/child_process.js:705:16)
+    at f (/usr/lib/code/out/bootstrap-fork.js:3:349)
+    at p (/usr/lib/code/out/bootstrap-fork.js:3:499)
+    at console.<computed> [as error] (/usr/lib/code/out/bootstrap-fork.js:7:32)
+    at process.<anonymous> (/usr/lib/code/out/bootstrap.js:1:364)
+    at process.emit (events.js:315:20)
+[2022-01-09 16:26:16.599] [exthost] [info] Extension host with pid 3663 exiting with code 0

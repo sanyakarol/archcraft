@@ -1,0 +1,11 @@
+[2022-01-09 16:26:12.310] [renderer1] [info] Starting extension host with pid 3688.
+[2022-01-09 16:26:12.319] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 129 ms.
+[2022-01-09 16:26:16.759] [renderer1] [error] [Extension Host] (node:3688) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-09 16:27:41.498] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/ruby/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/ruby/package.json'
+[2022-01-09 16:27:41.507] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json'
+[2022-01-09 16:27:41.520] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/vb/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/vb/package.json'
+[2022-01-09 16:27:41.525] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json'
+[2022-01-09 16:27:41.529] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json'
+[2022-01-09 16:27:41.530] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json'
+[2022-01-09 16:27:41.532] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json'
