@@ -1,6 +1,41 @@
 ## Copyright (C) 2020-2021 Aditya Shakya <adi1090x@gmail.com>
 ## Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
 
+[module/temperature]
+type = internal/temperature
+
+interval = 0.5
+
+thermal-zone = 1
+
+warn-temperature = 70
+
+units = true
+
+format = <ramp> <label>
+
+format-warn = <ramp> <label-warn>
+
+label = %temperature-c%
+#label-foreground = ${color.fg}
+
+label-warn = "%temperature-c%"
+label-warn-foreground = #f00
+
+ramp-0 =
+ramp-1 =
+ramp-2 =
+ramp-3 =
+ramp-4 =
+ramp-5 =
+ramp-5-foreground=#fc0303
+ramp-4-foreground=#f2ff00
+ramp-3-foreground=#09ff00
+ramp-2-foreground=#09ff00
+ramp-1-foreground=#09ff00
+ramp-0-foreground=#09ff00
+
+
 ;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
 [module/volume]
