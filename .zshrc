@@ -5,6 +5,23 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
+## Get colors from .Xresources -------------------------------#
+xrdb ~/.Xresources
+getcolors() {
+    FOREGROUND=$(xrdb -query | grep 'foreground:'| awk '{print $NF}')
+    BACKGROUND=$(xrdb -query | grep 'background:'| awk '{print $NF}')
+    BLACK=$(xrdb -query | grep 'color0:'| awk '{print $NF}')
+    RED=$(xrdb -query | grep 'color1:'| awk '{print $NF}')
+    GREEN=$(xrdb -query | grep 'color2:'| awk '{print $NF}')
+    YELLOW=$(xrdb -query | grep 'color3:'| awk '{print $NF}')
+    BLUE=$(xrdb -query | grep 'color4:'| awk '{print $NF}')
+    MAGENTA=$(xrdb -query | grep 'color5:'| awk '{print $NF}')
+    CYAN=$(xrdb -query | grep 'color6:'| awk '{print $NF}')
+    WHITE=$(xrdb -query | grep 'color7:'| awk '{print $NF}')
+}
+getcolors
+#  }
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
@@ -15,7 +32,7 @@ export ZSH=$HOME/.oh-my-zsh
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="powerlevel10k/powerlevel10k"
+#ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME="spaceship"
@@ -46,10 +63,6 @@ DISABLE_AUTO_UPDATE="true"
 # DISABLE_LS_COLORS="true"
 
 # Uncomment the following line to disable auto-setting terminal title.
- DISABLE_AUTO_TITLE="true"
-function set_terminal_title() {
-  echo -en "HUI"
-}
 
 # Uncomment the following line to enable command auto-correction.
 # ENABLE_CORRECTION="true"
@@ -129,7 +142,7 @@ rehash_precmd() {
 add-zsh-hook -Uz precmd rehash_precmd
 
 # omz
-alias zshconfig="geany ~/.zshrc"
+alias zshconfig="vim ~/.zshrc"
 alias ohmyzsh="thunar ~/.oh-my-zsh"
 
 # ls
@@ -157,3 +170,6 @@ source $ZSH/oh-my-zsh.sh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+#Custom title using Xresourses color
+PROMPT='%F{6}%B%~%b%f%B%F{2} >%f%b '
+
