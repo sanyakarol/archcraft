@@ -175,4 +175,8 @@ super + shift + i
 #Rotare to 90'
 super + shift +q
 	bspc node @parent -R 90
+#Cache remove
+super + shift + c   
+    sh ~/cacherm.sh
 ##---------- EOF ----------##
+

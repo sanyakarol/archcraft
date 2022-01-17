@@ -21072,3 +21072,122 @@ Jan 10 11:08 : player: played "http://air.radiorecord.ru:805/rus_320"
 Jan 10 11:08 : exception: Failed to decode http://air.radiorecord.ru:805/rus_320; CURL failed: Could not resolve host: air.radiorecord.ru
 Jan 10 11:08 : exception: Failed to decode http://air.radiorecord.ru:805/rus_320; CURL failed: Could not resolve host: air.radiorecord.ru
 Jan 10 11:08 : player: played "http://air.radiorecord.ru:805/rus_320"
+Jan 10 11:52 : exception: Failed to decode http://air.radiorecord.ru:805/rus_320; CURL failed: Could not resolve host: air.radiorecord.ru
+Jan 10 11:52 : player: played "http://air.radiorecord.ru:805/rus_320"
+Jan 10 11:52 : exception: Failed to decode http://air.radiorecord.ru:805/rus_320; CURL failed: Could not resolve host: air.radiorecord.ru
+Jan 10 11:52 : exception: Failed to decode http://air.radiorecord.ru:805/rus_320; CURL failed: Could not resolve host: air.radiorecord.ru
+Jan 10 11:52 : player: played "http://air.radiorecord.ru:805/rus_320"
+Jan 10 13:58 : exception: Failed to decode https://rusradio.hostingradio.ru/rusradio128.mp3; CURL failed: Connection time-out
+Jan 10 13:58 : player: played "https://rusradio.hostingradio.ru/rusradio128.mp3"
+Jan 10 14:12 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 14:12 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 14:13 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 14:13 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 14:13 : exception: Not playing
+Jan 10 14:13 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 14:13 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 14:13 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 14:13 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 14:13 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 14:13 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 14:13 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 14:13 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 14:13 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 14:13 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 14:13 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 14:13 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 14:13 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 14:13 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 14:13 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 14:14 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 14:14 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 14:14 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 14:14 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 15:27 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 15:27 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 15:27 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 15:27 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 15:27 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 15:27 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 15:27 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 15:27 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 15:27 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 15:41 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 15:53 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 15:53 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 15:53 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 15:53 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 15:53 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 15:59 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 23:51 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 23:51 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 23:51 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 23:54 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 23:54 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 23:54 : exception: Failed to decode http://radio-holding.ru:9000/marusya_default; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 23:54 : exception: Failed to decode http://radio-holding.ru:9000/marusya_default; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 23:54 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 23:54 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 23:54 : exception: Failed to decode http://radio-holding.ru:9000/marusya_default; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 23:54 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 23:54 : exception: Failed to decode http://radio-holding.ru:9000/marusya_default; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 23:54 : exception: Failed to decode http://radio-holding.ru:9000/marusya_default; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 23:54 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 23:54 : exception: Failed to decode http://radio-holding.ru:9000/marusya_default; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 23:54 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 23:54 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 23:54 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 23:54 : exception: Failed to decode http://radio-holding.ru:9000/marusya_default; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 23:54 : exception: Failed to decode http://radio-holding.ru:9000/marusya_default; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 23:54 : exception: Failed to decode http://radio-holding.ru:9000/marusya_default; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 23:54 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 23:54 : exception: Failed to decode http://radio-holding.ru:9000/marusya_default; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 23:54 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 23:54 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 23:55 : exception: Failed to decode https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8; CURL failed: The requested URL returned error: 404
+Jan 10 23:55 : player: played "https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8"
+Jan 10 23:55 : exception: Failed to decode http://radio-holding.ru:9000/marusya_default; CURL failed: The requested URL returned error: 404
+Jan 10 23:55 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 10 23:55 : exception: Failed to decode https://hls-07-storage.hostingradio.ru/record/96; CURL failed: The requested URL returned error: 404
+Jan 10 23:55 : player: played "https://hls-07-storage.hostingradio.ru/record/96"
+Jan 10 23:55 : exception: Failed to decode http://radio-holding.ru:9000/marusya_default; CURL failed: The requested URL returned error: 404
+Jan 10 23:55 : player: played "http://radio-holding.ru:9000/marusya_default"
+Jan 14 19:43 : player: played "https://rusradio.hostingradio.ru/rusradio128.mp3"
+Jan 14 20:08 : player: played "https://rusradio.hostingradio.ru/rusradio128.mp3"
+Jan 14 20:08 : output: Failed to play on "pulse audio" (pulse): disconnected
