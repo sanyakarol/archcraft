@@ -1,5 +1,3 @@
-<!-- Copyright (C) 2020-2021 Aditya Shakya <adi1090x@gmail.com> -->
-<!-- Everyone is permitted to copy and distribute copies of this file under GNU-GPL3 -->
 <?xml version="1.0" encoding="UTF-8"?>
 
 <channel name="xfce4-power-manager" version="1.0">
@@ -18,12 +16,13 @@
     <property name="logind-handle-lid-switch" type="bool" value="false"/>
     <property name="lid-action-on-ac" type="uint" value="3"/>
     <property name="handle-brightness-keys" type="bool" value="false"/>
-    <property name="inactivity-on-ac" type="uint" value="20"/>
+    <property name="inactivity-on-ac" type="uint" value="14"/>
     <property name="critical-power-action" type="uint" value="3"/>
     <property name="blank-on-ac" type="int" value="5"/>
     <property name="battery-button-action" type="uint" value="1"/>
     <property name="brightness-level-on-ac" type="uint" value="35"/>
     <property name="brightness-on-battery" type="uint" value="90"/>
     <property name="brightness-on-ac" type="uint" value="120"/>
+    <property name="dpms-enabled" type="bool" value="false"/>
   </property>
 </channel>

@@ -1,10 +1,10 @@
-sw_volume: 30
+sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: play
-current: 4
-time: 120.270000
-random: 1
+current: 1
+time: 1853.341000
+random: 0
 repeat: 1
 single: 0
 consume: 0
@@ -12,20 +12,58 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-song_begin: https://hls-07-storage.hostingradio.ru/record/96
-song_end
-song_begin: https://hls-01-storage.hostingradio.ru/record/96/playlist.m3u8
-song_end
-song_begin: http://radio-holding.ru:9000/marusya_default
-Title: Ghanna Friske - la la la
-Name: MARUSYA
-song_end
-song_begin: http://radio-holding.ru:9000/marusya_default
-Title: JONY;Rakhim - Uydeshy
-Name: MARUSYA
+song_begin: http://194.58.97.117:8000/coreradio
+Title: Betraying The Martyrs - Where The World Ends
+Name: CORE RADIO
 song_end
 song_begin: https://rusradio.hostingradio.ru/rusradio128.mp3
-Title: ВИАГРА - НЕ ОСТАВЛЯЙ МЕНЯ ЛЮБИМЫЙ
+Title: ТУТСИ - 100 СВЕЧЕЙ (2021)
 Name: rusradio
+song_end
+song_begin: http://air.radiorecord.ru:805/rus_320
+song_end
+song_begin: http://air.radiorecord.ru:805/rus_320
+song_end
+song_begin: http://air.radiorecord.ru:8101/rr_320
+song_end
+song_begin: http://bob.hoerradar.de/radiobob-metal-mp3-hq
+Title: Avenged Sevenfold - Mad Hatter
+Name: RADIO BOB! - BOBs Metal Stream
+song_end
+song_begin: http://ic5.101.ru:8000/v1_1
+Name: EnergyFM Online
+song_end
+song_begin: http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+Name: europaplus
+song_end
+song_begin: http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+Name: europaplus
+song_end
+song_begin: http://radio-holding.ru:9000/marusya_default
+Title: MARUSYa FM - BABUShKIN SUNDUK 2
+Name: MARUSYA
+song_end
+song_begin: http://bob.hoerradar.de/radiobob-metal-mp3-hq
+Title: Rage - Serial Killer
+Name: RADIO BOB! - BOBs Metal Stream
+song_end
+song_begin: https://dfm.hostingradio.ru/dfm128.mp3
+Title: Ваня Дмитриенко - Вечно Молодым (DJ Safiter Remix)
+Name: dfm
+song_end
+song_begin: https://dfm.hostingradio.ru/dfm128.mp3
+Title: HUGEL/Stefy De Cicco/Hugo Cantarra/Nikol Apatini - 4 To The Floor
+Name: dfm
+song_end
+song_begin: http://ic5.101.ru:8000/v1_1
+Name: EnergyFM Online
+song_end
+song_begin: http://194.58.97.117:8000/coreradio
+Title: Adept - Carry the Weight
+Name: CORE RADIO
+song_end
+song_begin: https://dfm.hostingradio.ru/dfm128.mp3
+Title: Inna - UP (Vadim Adamov & Hardphol Remix)
+Name: dfm
 song_end
 playlist_end
